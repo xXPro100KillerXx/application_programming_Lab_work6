@@ -7,3 +7,5 @@
 # Тесты
 ![image](https://user-images.githubusercontent.com/113775345/196052937-e4c14a68-0e41-4bda-b122-e9ac4573bdfe.png)
 ![image](https://user-images.githubusercontent.com/113775345/196052962-f976d9c6-3283-4f9b-abdb-032a0d1f5ff4.png)
+![image](https://user-images.githubusercontent.com/113775345/196053387-c3fb45c1-250f-4571-afa9-b3a8e637e823.png)
+
